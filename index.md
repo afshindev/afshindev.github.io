@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![/afshinamini.jpg](src)
+[[https://github.com/afshindev/afshindev.github.io/blob/master/afshinamini.jpg|alt=octocat]]
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
